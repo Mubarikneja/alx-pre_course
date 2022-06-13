@@ -1,2 +1,1 @@
-git add up_to_date 
-
+It’s the only time you are allowed to update and commit from GitHub interface.
