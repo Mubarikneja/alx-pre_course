@@ -1,5 +1,1 @@
-git add .
-git commit -m 'commit message'
-git status
-git push
-
+git add up_to_date
